@@ -1,0 +1,12 @@
+{
+  "id": "sierra-aspen",
+  "name": "Sierra Video Aspen Video Router",
+  "author": "marshall409",
+  "version": "1.0.0",
+  "main": "index.js",
+  "companionVersion": ">=4.0.0",
+  "keywords": ["video router", "sierra", "aspen"],
+  "dependencies": {
+    "@companion-module/base": "^4.0.0"
+  }
+}
